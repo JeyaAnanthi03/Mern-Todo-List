@@ -53,4 +53,7 @@ A full-stack Todo List app built using the MERN stack — **MongoDB**, **Express
 ---
 ## 📸 Screenshot
 
-![Todo List Screenshot](./img/screenshot1.png)
+![Todo List Screenshot](./img/Screenshot1.png)
+
+![Todo List Screenshot](./img/Screenshot2.png)
+
